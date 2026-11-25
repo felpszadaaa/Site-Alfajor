@@ -8,15 +8,12 @@ class Doce:
     preco: float
     categoria: str
     descricao: str = ""
-    # Nome do arquivo da foto dentro de app/static/img/ (png, jpg ou jpeg).
-    # Exemplo: imagem="nutella.jpg". Vazio = aparece "Adicione a foto".
     imagem: str = ""
 
 
 class DoceRepositorio:
     """Fonte dos dados da vitrine. Para usar um banco depois, só este arquivo muda."""
 
-    # O "id" precisa ser único: é ele que o carrinho e o pedido usam.
     _DOCES = (
         Doce("alfajor-tradicional", "Brigadeiro tradicional", 6.00, "brigadeiros", imagem="alfajor-1.png"),
         Doce("alfajor-ninho", "Brigadeiro de ninho", 6.00, "brigadeiros", imagem="alfajor-2.png"),
