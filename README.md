@@ -1,6 +1,6 @@
 
 # Doceria — Flask em arquitetura BMVC (sem Docker)
-=======
+
 # Ju Alfajor Doceria — Flask em arquitetura MVC (sem Docker)
 
 ## Rodar
@@ -17,7 +17,7 @@ Acesse: http://localhost:5000
 - app/models/                    -> Doce, DoceRepositorio, Pedido (regras e validação)
 - app/views/html/                -> base.html, index.html, _docinho.html (Jinja)
 - app/static/                    -> css/style.css, js/app.js
-=======
+- 
     python run.py
 Acesse: http://localhost:5000
 
