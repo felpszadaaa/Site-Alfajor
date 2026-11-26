@@ -1,0 +1,16 @@
+[
+  {"id": "brigadeiro-tradicional", "nome": "Brigadeiro tradicional", "preco": 6.00, "categoria": "brigadeiros",
+   "cor": "#4a2418", "topo": "#fff8ec", "descricao": "O clássico de chocolate, cremoso, com granulado."},
+  {"id": "ninho", "nome": "Brigadeiro de ninho", "preco": 6.00, "categoria": "brigadeiros",
+   "cor": "#f1e8d2", "topo": "#e23d68", "descricao": "Leite ninho cremoso, o favorito das festas."},
+  {"id": "beijinho", "nome": "Beijinho", "preco": 6.00, "categoria": "tradicionais",
+   "cor": "#f4efe0", "topo": "#d9a441", "descricao": "Coco e leite condensado, passado no açúcar."},
+  {"id": "nutella", "nome": "Nutella", "preco": 7.00, "categoria": "tradicionais",
+   "cor": "#6b4a3a", "topo": "#fff8ec", "descricao": "Brigadeiro com o sabor intenso da Nutella."},
+  {"id": "pacoca", "nome": "Paçoca", "preco": 7.00, "categoria": "tradicionais",
+   "cor": "#d9a95a", "topo": "#8a5a2b", "descricao": "Sabor de paçoca de verdade, com textura macia."},
+  {"id": "maracuja", "nome": "Brigadeiro de maracujá", "preco": 6.00, "categoria": "finos",
+   "cor": "#fe9a3c", "topo": "#fff1a8", "descricao": "Doce e levemente azedinho, bem refrescante."},
+  {"id": "alfajor-doce-de-leite", "nome": "Alfajor de doce de leite", "preco": 6.00, "categoria": "tradicionais",
+   "cor": "#e8c48c", "topo": "#a8602a", "descricao": "Massa macia, recheio generoso e cobertura artesanal.", "tipo": "alfajor"}
+]
